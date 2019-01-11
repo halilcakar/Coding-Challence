@@ -17,3 +17,4 @@ const random = (min, max) => {
 	if (typeof max === 'undefined') { max = min; min = 0; }
 	return rand * (max - min) + min;
 };
+ 
