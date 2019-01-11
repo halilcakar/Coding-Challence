@@ -1,4 +1,4 @@
-## 1 - Starfield
+## #1 - Starfield
 All codes are belongs to [@shiffman](https://github.com/shiffman)
 
 Coding Train: [Starfield](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_001_StarField)

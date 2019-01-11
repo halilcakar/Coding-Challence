@@ -1,4 +1,4 @@
-## 1 - Purple Rain
+## #4 - Purple Rain
 All codes are belongs to [@shiffman](https://github.com/shiffman)
 
 Coding Train: [Purple Rain](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_004_PurpleRain)
