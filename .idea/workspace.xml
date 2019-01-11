@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df39fb6f-2b82-4f59-974c-fc9ceee89599" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/#5 - Space Invaders/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/#5 - Space Invaders/game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Coding-Challence.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Coding-Challence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,28 +13,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/#1 - Starfield/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="330">
+                <caret line="11" selection-start-line="11" selection-end-line="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/#5 - Space Invaders/game.js">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#32#0" />
-                <element signature="e#92#190#0" />
-                <element signature="e#965#1205#0" />
-                <element signature="e#1225#1398#0" />
-                <element signature="e#582#1320#0" />
-                <element signature="e#652#976#0" />
-                <element signature="e#996#1162#0" />
-                <element signature="e#1184#1318#0" />
-                <element signature="e#608#753#0" />
-                <element signature="e#778#1424#0" />
-                <element signature="e#991#1121#0" />
-                <element signature="e#1451#2213#0" />
-                <element signature="e#453#935#0" />
-                <element signature="e#715#820#0" />
-                <element signature="e#826#933#0" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -70,6 +64,7 @@
         <option value="$PROJECT_DIR$/#5 - Space Invaders/index.html" />
         <option value="$PROJECT_DIR$/#1 - Starfield/game.js" />
         <option value="$PROJECT_DIR$/#5 - Space Invaders/game.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -99,16 +94,6 @@
             <path>
               <item name="Coding-Challence" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding-Challence" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Challence" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding-Challence" type="462c0819:PsiDirectoryNode" />
-              <item name="#1 - Starfield" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coding-Challence" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding-Challence" type="462c0819:PsiDirectoryNode" />
-              <item name="#5 - Space Invaders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -158,18 +143,18 @@
       <workItem from="1546644203524" duration="228000" />
       <workItem from="1546644487398" duration="1664000" />
       <workItem from="1546810000150" duration="3506000" />
-      <workItem from="1547217441327" duration="9577000" />
+      <workItem from="1547217441327" duration="9889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16873000" />
+    <option name="totallyTimeSpent" value="17185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1267" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.235012" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.235012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -182,7 +167,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32799146" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -260,16 +245,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/#1 - Starfield/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="4" selection-start-column="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/#4 - Purple Rain/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -328,11 +303,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/#5 - Space Invaders/game.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="36" column="4" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        <state relative-caret-position="270">
+          <caret line="60" column="3" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
           <folding>
             <element signature="e#0#32#0" />
             <element signature="e#92#190#0" />
+            <element signature="e#895#1556#0" />
             <element signature="e#965#1205#0" />
             <element signature="e#1225#1398#0" />
             <element signature="e#582#1320#0" />
@@ -347,6 +323,23 @@
             <element signature="e#715#820#0" />
             <element signature="e#826#933#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#1 - Starfield/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="330">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
