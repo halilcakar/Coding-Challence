@@ -9,4 +9,4 @@ thecodingtrain.com: [Website](https://thecodingtrain.com/CodingChallenges/006-mi
 
 I'm simply writing all code again, using [phaser3](https://phaser.io/).
 
-![](https://github.com/halilcakar/Coding-Challence/blob/master/%236%20-%20Mitosis%20Simulation/mitosis-simulation.gif)
+![](https://github.com/halilcakar/Coding-Challence/blob/master/CC%20-%20%23006%20-%20Mitosis%20Simulation/mitosis-simulation.gif)
