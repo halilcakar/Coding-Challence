@@ -9,4 +9,4 @@ thecodingtrain.com: [Website](https://thecodingtrain.com/CodingChallenges/001-st
 
 I'm simply writing all code again, using [phaser3](https://phaser.io/).
 
-![](https://github.com/halilcakar/Coding-Challence/blob/master/%231-Starfield/starfield.gif)
+![](https://github.com/halilcakar/Coding-Challence/blob/master/CC%20-%20%23001%20-%20Starfield/starfield.gif)
