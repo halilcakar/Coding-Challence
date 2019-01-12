@@ -67,7 +67,6 @@ class Cell extends Phaser.GameObjects.Graphics {
 			this.destroy();
 		});
 	}
-
 	update() {
 		let point = this.area.getRandomPoint();
 		this.setPosition(point.x, point.y);
