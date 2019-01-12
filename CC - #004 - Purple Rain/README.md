@@ -9,4 +9,4 @@ thecodingtrain.com: [Website](https://thecodingtrain.com/CodingChallenges/004-pu
 
 I'm simply writing all code again, using [phaser3](https://phaser.io/).
 
-![]()
+![](https://github.com/halilcakar/Coding-Challence/blob/master/CC%20-%20%23004%20-%20Purple%20Rain/purple-rain.gif)
