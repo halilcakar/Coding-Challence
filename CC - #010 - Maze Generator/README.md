@@ -9,4 +9,4 @@ thecodingtrain.com: [Website](https://thecodingtrain.com/CodingChallenges/010.1-
 
 I'm simply writing all code again, using [phaser3](https://phaser.io/).
 
-![GIF]()
+![](https://github.com/halilcakar/Coding-Challence/blob/master/CC%20-%20%23010%20-%20Maze%20Generator/maze-generation.gif)
