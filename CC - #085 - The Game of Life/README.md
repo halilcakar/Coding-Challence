@@ -9,4 +9,4 @@ thecodingtrain.com: [Website](https://thecodingtrain.com/CodingChallenges/085-th
 
 I'm simply writing all code again, using [phaser3](https://phaser.io/).
 
-![]()
+![](https://github.com/halilcakar/Coding-Challence/blob/master/CC%20-%20%23085%20-%20The%20Game%20of%20Life/the-game-of-life.gif)
