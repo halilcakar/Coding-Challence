@@ -9,4 +9,4 @@ thecodingtrain.com: [Website](https://thecodingtrain.com/CodingChallenges/035.1-
 
 I'm simply writing all code again, using [phaser3](https://phaser.io/).
 
-![]()
+![](https://github.com/halilcakar/Coding-Challence/blob/master/CC%20-%20%23035.1%20-%20Traveling%20Salesperson/traveling-person.gif)
