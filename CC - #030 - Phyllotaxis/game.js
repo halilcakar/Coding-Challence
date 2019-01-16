@@ -11,8 +11,8 @@ window.onload = function() {
 	};
 	game = new Phaser.Game(gameConfig);
 	window.focus();
-	resizeGame();
-	window.addEventListener('resize', resizeGame);
+	resizeGame(game);
+	window.addEventListener('resize', () => { resizeGame(game) });
 };
 
 class SimpleScene extends Phaser.Scene {
@@ -22,9 +22,7 @@ class SimpleScene extends Phaser.Scene {
 	create() {
 		this.n = 0;
 		this.c = 3;
-		this.angle = 137.6;
-		//137.3
-		//137.6
+		this.angle = 140;
 		this.grap = this.add.graphics();
 
 	}
@@ -41,17 +39,3 @@ class SimpleScene extends Phaser.Scene {
 	}
 }
 
-const resizeGame = () => {
-	var canvas = document.querySelector('canvas');
-	var windowWidth = window.innerWidth;
-	var windowHeight = window.innerHeight;
-	var windowRatio = windowWidth / windowHeight;
-	var gameRatio = game.config.width / game.config.height;
-	if (windowRatio < gameRatio) {
-		canvas.style.width = windowWidth + 'px';
-		canvas.style.height = (windowWidth / gameRatio) + 'px';
-	} else {
-		canvas.style.width = (windowHeight * gameRatio) + 'px';
-		canvas.style.height = windowHeight + 'px';
-	}
-};
