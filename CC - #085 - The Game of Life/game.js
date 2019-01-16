@@ -96,7 +96,6 @@ class SimpleScene extends Phaser.Scene {
 				grid[i][j] = Math.round(Math.random());
 			}
 		}
-		console.table(grid);
 		return grid;
 	}
 }
