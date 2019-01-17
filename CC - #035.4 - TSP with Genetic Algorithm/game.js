@@ -23,7 +23,7 @@ class SimpleScene extends Phaser.Scene {
 		this.counter = 0;
 		this.cities = [];
 		this.population = [];
-		this.totalCities = 5;
+		this.totalCities = 10;
 		this.populationLength = 1000;
 		this.recordDistance = Number.MAX_VALUE;
 		this.bestEver = undefined;
@@ -42,8 +42,6 @@ class SimpleScene extends Phaser.Scene {
 		var rect = Phaser.Geom.Rectangle.Clone(this.cameras.main);
 		rect.setPosition(50).setSize(rect.width - 50, (rect.height - 50));
 
-		this.totalCities = 10;
-		this.populationLength = 50;
 		this.info = this.add.text(20, 20, [
 			'counter: '+this.counter,
 			'totalCities: '+this.totalCities,
