@@ -9,4 +9,4 @@ thecodingtrain.com: [Website](https://thecodingtrain.com/CodingChallenges/035.3-
 
 I'm simply writing all code again, using [phaser3](https://phaser.io/).
 
-![]()
+![](https://github.com/halilcakar/Coding-Challence/blob/master/CC%20-%20%23035.3%20-%20TSP%20with%20Lexicographic%20Order/TSP-with-lexicographic-order.gif)
