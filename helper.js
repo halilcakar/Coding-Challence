@@ -32,3 +32,8 @@ const resizeGame = (_game) => {
 		canvas.style.height = windowHeight + 'px';
 	}
 };
+
+const random2D = () => {
+	let angle = Math.random() * (2 * Math.PI);
+	return new Phaser.Math.Vector2(Math.cos(angle), Math.sin(angle));
+};
